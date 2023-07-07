@@ -21,3 +21,5 @@ create table student_register(
    password VARCHAR(50) NOT NULL,
    PRIMARY KEY ( email )
 );
+
+download classifier for modules and libraries used for face recoginition
